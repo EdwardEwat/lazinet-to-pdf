@@ -1,0 +1,8 @@
+.Login {
+  position: fixed;
+  display: flex;
+  left: 100px;
+  width: 500px;
+  top: 30px;
+  background-color: transparent;
+}

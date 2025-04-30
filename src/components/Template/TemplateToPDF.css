@@ -1,0 +1,52 @@
+.template-to-pdf {
+  display: block;
+  width: 100%;
+  padding: 20px;
+}
+
+.show {
+  box-sizing: border-box;
+  padding: 0;
+  background-color: #fff;
+  margin: 0 auto;
+}
+
+.show.giay-in-nhiet {
+  width: 100mm;
+  height: 150mm;
+}
+
+.show.a4 {
+  width: 210mm;
+  height: 297mm;
+}
+
+.show.fort {
+  width: 210mm;
+  height: 297mm;
+}
+
+.show.k80 {
+  width: 80mm;
+  height: 150mm;
+}
+
+.show.k57 {
+  width: 57mm;
+  height: 100mm;
+}
+
+.show.carbonless {
+  width: 210mm;
+  height: 297mm;
+}
+
+.show.couche {
+  width: 210mm;
+  height: 297mm;
+}
+
+.show.ivory {
+  width: 210mm;
+  height: 297mm;
+}
